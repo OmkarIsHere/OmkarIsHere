@@ -7,9 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/OmkarIsHere?tab=repositories](https://github.com/OmkarIsHere?tab=repositories)
 
-- 💬 Ask me about **Android, Java, PHP, Flutter**
-
-- 📫 How to reach me **pendkalkar.omkar786@gmail.com**
+- 💬 Ask me about **Android, Kotlin, Java, Flutter, SQL**
 
 - 📄 My resume [https://bit.ly/android-developer-omkar-pendkalkar](https://bit.ly/android-developer-omkar-pendkalkar)
 
