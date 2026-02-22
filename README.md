@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omkar Pendkalkar</h1>
-<h3 align="center">I’m interested in Software Development specifically in Mobile App Development</h3>
+<h3 align="center">I’m interested in Software Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarishere&label=Profile%20views&color=0e75b6&style=flat" alt="omkarishere" /> </p>
-
-- 🌱 I’m currently learning **Android & Flutter Development, MVC, MVVM**
-
-- 👨‍💻 All of my projects are available at [https://github.com/OmkarIsHere?tab=repositories](https://github.com/OmkarIsHere?tab=repositories)
-
-- 💬 Ask me about **Android, Kotlin, Java, Flutter, SQL**
-
-- 📄 My resume [https://bit.ly/android-developer-omkar-pendkalkar](https://bit.ly/android-developer-omkar-pendkalkar)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
